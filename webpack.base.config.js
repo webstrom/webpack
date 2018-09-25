@@ -4,18 +4,15 @@ const CleanWebpackPligin = require("clean-webpack-plugin");
 const htmlwebpackplugin = require('html-webpack-plugin');
 
 module.exports = {
-    mode: 'development',
     entry:  path.join(__dirname + "/app/index.js"),//已多次提及的唯一入口文件
     output: {
-        path: path.join(__dirname + "/dist"), //打包后的文件存放的地方
-        filename: "js/bundle.js" //打包后输出文件的文件名
+        path: path.join(__dirname + "/dist") //打包后的文件存放的地方
     },
     module:{
         rules:[
             {
                 test:/\.css$/,
                 loaders:'style-loader!css-loader!postcss-loader',
-
             },
             {
                 test:/\.less$/,

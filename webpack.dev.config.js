@@ -2,7 +2,6 @@ const webpack = require('webpack');
 const WebpackDevServerOutput = require("webpack-dev-server-output");
 const baseConfig = require("./webpack.base.config");
 const ExtractTextPlugin = require("extract-text-webpack-plugin");
-const htmlwebpackplugin = require('html-webpack-plugin');
 //开发模式
 baseConfig.mode = 'development';
 
@@ -11,6 +10,8 @@ baseConfig.output.publicPath = './';
 
 // 方便追踪源代码中的错误
 baseConfig.devtool = "source-map";
+//打包后输出文件的文件名
+baseConfig.output.filename = "js/bundle.js";
 // 服务配置
 baseConfig.devServer = {
     // 发布服务的文件夹
