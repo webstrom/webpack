@@ -1,0 +1,39 @@
+%padding{
+  padding:$zero;
+}
+%margin{
+  margin: $zero;
+}
+
+%list-style-none{
+  list-style: $none;
+}
+%display-none{
+  display: $none;
+}
+
+%display-block{
+  display: $block;
+}
+
+%position-absolute{
+  position: absolute;
+}
+%position-relative{
+  position: relative;
+}
+%position-fixed{
+  position: fixed;
+}
+%border{
+  border: $zero;
+}
+%text-decoration-none{
+  text-decoration:$none;
+}
+%text-decoration-underline{
+  text-decoration:underline;
+}
+%overflow-hidden{
+  overflow: hidden;
+}

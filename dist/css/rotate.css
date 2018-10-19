@@ -1,0 +1,103 @@
+@charset "UTF-8";
+
+body,ul,input {
+  padding: 0;
+}
+
+body,ul,input {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+.content {
+  overflow: hidden;
+}
+
+/*
+需要注意的是：
+样式的reset中需先设置html字体的初始化大小为50px，这是为了防止js被禁用或者加载不到或者执行错误而做的兼容
+样式的reset中需先设置body字体的初始化大小为16px，这是为了让body内的字体大小不继承父级html元素的50px，而用系统默认的16px
+*/
+
+html {
+  -ms-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  text-size-adjust: none;
+  font-size: 50px;
+}
+
+body {
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+body,input {
+  font-family: 'helvetica neue', tahoma, 'hiragino sans gb', stheiti, 'wenquanyi micro hei', \5FAE\8F6F\96C5\9ED1, \5B8B\4F53, sans-serif;
+}
+
+input {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+}
+
+html input[type="button"],input[type="reset"],input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+
+input[disabled] {
+  cursor: default;
+}
+
+input[type="checkbox"],input[type="radio"] {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  input {
+    line-height: normal !important;
+  }
+}
+
+.hede {
+  background: #32CD32;
+  color: #FFFFFF;
+  text-align: center;
+  height: .6rem;
+  line-height: .6rem;
+  font-size: .2rem;
+}
+
+.content span {
+  display: block;
+  width: 3.6rem;
+  background: #00BFFF;
+  float: left;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 0.01rem;
+}
+
+.rotate {
+  width: 7.2rem;
+  margin: 0px auto;
+}
+/*# sourceMappingURL=rotate.css.map*/

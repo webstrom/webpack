@@ -1,0 +1,654 @@
+$color_FFFFFF:#FFFFFF !default;
+$color_FFFFF0:#FFFFF0 !default;
+$color_FFFFE0:#FFFFE0 !default;
+$color_FFFF00:#FFFF00 !default;
+
+$color_FFFAFA:#FFFAFA !default;
+$color_FFFAF0:#FFFAF0 !default;
+$color_FFFACD:#FFFACD !default;
+$color_FFF8DC:#FFF8DC !default;
+
+$color_FFF68F:#FFF68F !default;
+$color_FFF5EE:#FFF5EE !default;
+$color_FFF0F5:#FFF0F5 !default;
+$color_FFEFDB:#FFEFDB !default;
+
+$color_FFEFD5:#FFEFD5 !default;
+$color_FFEC8B:#FFEC8B !default;
+$color_FFEBCD:#FFEBCD !default;
+$color_FFE7BA:#FFE7BA !default;
+
+$color_FFE4E1:#FFE4E1 !default;
+$color_FFE4C4:#FFE4C4 !default;
+$color_FFE4B5:#FFE4B5 !default;
+$color_FFE1FF:#FFE1FF !default;
+
+$color_FFDEAD:#FFDEAD !default;
+$color_FFDAB9:#FFDAB9 !default;
+$color_FFD700:#FFD700 !default;
+$color_FFD39B:#FFD39B !default;
+
+$color_FFC1C1:#FFC1C1 !default;
+$color_FFC125:#FFC125 !default;
+$color_FFC0CB:#FFC0CB !default;
+$color_FFBBFF:#FFBBFF !default;
+
+$color_FFB90F:#FFB90F !default;
+$color_FFB6C1:#FFB6C1 !default;
+$color_FFB5C5:#FFB5C5 !default;
+$color_FFAEB9:#FFAEB9 !default;
+
+$color_FFA54F:#FFA54F !default;
+$color_FFA500:#FFA500 !default;
+$color_FFA07A:#FFA07A !default;
+$color_FF8C69:#FF8C69 !default;
+
+$color_FF8C00:#FF8C00 !default;
+$color_FF83FA:#FF83FA !default;
+$color_FF82AB:#FF82AB !default;
+$color_FF8247:#FF8247 !default;
+
+$color_FF7F50:#FF7F50 !default;
+$color_FF7F24:#FF7F24 !default;
+$color_FF7F00:#FF7F00 !default;
+$color_FF7256:#FF7256 !default;
+
+$color_FF6EB4:#FF6EB4 !default;
+$color_FF6A6A:#FF6A6A !default;
+$color_FF69B4:#FF69B4 !default;
+$color_FF6347:#FF6347 !default;
+
+$color_FF4500:#FF4500 !default;
+$color_FF4040:#FF4040 !default;
+$color_FF3E96:#FF3E96 !default;
+$color_FF34B3:#FF34B3 !default;
+
+$color_FF3030:#FF3030 !default;
+$color_FF1493:#FF1493 !default;
+$color_FF00FF:#FF00FF !default;
+$color_FF0000:#FF0000 !default;
+
+$color_FDF5E6:#FDF5E6 !default;
+$color_FCFCFC:#FCFCFC !default;
+$color_FAFAFA:#FAFAFA !default;
+$color_FAFAD2:#FAFAD2 !default;
+
+$color_FAF0E6:#FAF0E6 !default;
+$color_FAEBD7:#FAEBD7 !default;
+$color_FA8072:#FA8072 !default;
+$color_F8F8FF:#F8F8FF !default;
+
+$color_F7F7F7:#F7F7F7 !default;
+$color_F5FFFA:#F5FFFA !default;
+$color_F5F5F5:#F5F5F5 !default;
+$color_F5F5DC:#F5F5DC !default;
+
+$color_F5DEB3:#F5DEB3 !default;
+$color_F4F4F4:#F4F4F4 !default;
+$color_F4A460:#F4A460 !default;
+$color_F2F2F2:#F2F2F2 !default;
+
+$color_F0FFFF:#F0FFFF !default;
+$color_F0FFF0:#F0FFF0 !default;
+$color_F0F8FF:#F0F8FF !default;
+$color_F0F0F0:#F0F0F0 !default;
+
+$color_F0E68C:#F0E68C !default;
+$color_F08080:#F08080 !default;
+$color_EEEEE0:#EEEEE0 !default;
+$color_EEEED1:#EEEED1 !default;
+
+$color_EEEE00:#EEEE00 !default;
+$color_EEE9E9:#EEE9E9 !default;
+$color_EEE9BF:#EEE9BF !default;
+$color_EEE8CD:#EEE8CD !default;
+
+$color_EEE8AA:#EEE8AA !default;
+$color_EEE685:#EEE685 !default;
+$color_EEE5DE:#EEE5DE !default;
+$color_EEE0E5:#EEE0E5 !default;
+
+$color_EEDFCC:#EEDFCC !default;
+$color_EEDC82:#EEDC82 !default;
+$color_EED8AE:#EED8AE !default;
+$color_EED5D2:#EED5D2 !default;
+
+$color_EED5B7:#EED5B7 !default;
+$color_EED2EE:#EED2EE !default;
+$color_EECFA1:#EECFA1 !default;
+$color_EECBAD:#EECBAD !default;
+
+$color_EEC900:#EEC900 !default;
+$color_EEC591:#EEC591 !default;
+$color_EEB4B4:#EEB4B4 !default;
+$color_EEB422:#EEB422 !default;
+
+$color_EEAEEE:#EEAEEE !default;
+$color_EEAD0E:#EEAD0E !default;
+$color_EEA9B8:#EEA9B8 !default;
+$color_EEA2AD:#EEA2AD !default;
+
+$color_EE9A49:#EE9A49 !default;
+$color_EE9A00:#EE9A00 !default;
+$color_EE9572:#EE9572 !default;
+$color_EE82EE:#EE82EE !default;
+
+$color_EE8262:#EE8262 !default;
+$color_EE7AE9:#EE7AE9 !default;
+$color_EE799F:#EE799F !default;
+$color_EE7942:#EE7942 !default;
+
+$color_EE7621:#EE7621 !default;
+$color_EE7600:#EE7600 !default;
+$color_EE6AA7:#EE6AA7 !default;
+$color_EE6A50:#EE6A50 !default;
+
+$color_EE6363:#EE6363 !default;
+$color_EE5C42:#EE5C42 !default;
+$color_EE4000:#EE4000 !default;
+$color_EE3B3B:#EE3B3B !default;
+
+$color_EE3A8C:#EE3A8C !default;
+$color_EE30A7:#EE30A7 !default;
+$color_EE2C2C:#EE2C2C !default;
+$color_EE1289:#EE1289 !default;
+
+$color_EE00EE:#EE00EE !default;
+$color_EE0000:#EE0000 !default;
+$color_EDEDED:#EDEDED !default;
+$color_EBEBEB:#EBEBEB !default;
+
+$color_EAEAEA:#EAEAEA !default;
+$color_E9967A:#E9967A !default;
+$color_E8E8E8:#E8E8E8 !default;
+$color_E6E6FA:#E6E6FA !default;
+
+$color_E5E5E5:#E5E5E5 !default;
+$color_E3E3E3:#E3E3E3 !default;
+$color_E0FFFF:#E0FFFF !default;
+$color_E0EEEE:#E0EEEE !default;
+
+$color_E0EEE0:#E0EEE0 !default;
+$color_E0E0E0:#E0E0E0 !default;
+$color_E066FF:#E066FF !default;
+$color_DEDEDE:#DEDEDE !default;
+
+$color_DEB887:#DEB887 !default;
+$color_DDA0DD:#DDA0DD !default;
+$color_DCDCDC:#DCDCDC !default;
+$color_DC143C:#DC143C !default;
+
+$color_DBDBDB:#DBDBDB !default;
+$color_DB7093:#DB7093 !default;
+$color_DAA520:#DAA520 !default;
+$color_DA70D6:#DA70D6 !default;
+
+$color_D9D9D9:#D9D9D9 !default;
+$color_D8BFD8:#D8BFD8 !default;
+$color_D6D6D6:#D6D6D6 !default;
+$color_D4D4D4:#D4D4D4 !default;
+
+$color_D3D3D3:#D3D3D3 !default;
+$color_D2B48C:#D2B48C !default;
+$color_D2691E:#D2691E !default;
+$color_D1EEEE:#D1EEEE !default;
+
+$color_D1D1D1:#D1D1D1 !default;
+$color_D15FEE:#D15FEE !default;
+$color_D02090:#D02090 !default;
+$color_CFCFCF:#CFCFCF !default;
+
+$color_CDCDC1:#CDCDC1 !default;
+$color_CDCDB4:#CDCDB4 !default;
+$color_CDCD00:#CDCD00 !default;
+$color_CDC9C9:#CDC9C9 !default;
+
+$color_CDC9A5:#CDC9A5 !default;
+$color_CDC8B1:#CDC8B1 !default;
+$color_CDC673:#CDC673 !default;
+$color_CDC5BF:#CDC5BF !default;
+
+$color_CDC1C5:#CDC1C5 !default;
+$color_CDC0B0:#CDC0B0 !default;
+$color_CDBE70:#CDBE70 !default;
+$color_CDBA96:#CDBA96 !default;
+
+$color_CDB7B5:#CDB7B5 !default;
+$color_CDB79E:#CDB79E !default;
+$color_CDB5CD:#CDB5CD !default;
+$color_CDB38B:#CDB38B !default;
+
+$color_CDAF95:#CDAF95 !default;
+$color_CDAD00:#CDAD00 !default;
+$color_CDAA7D:#CDAA7D !default;
+$color_CD9B9B:#CD9B9B !default;
+
+$color_CD9B1D:#CD9B1D !default;
+$color_CD96CD:#CD96CD !default;
+$color_CD950C:#CD950C !default;
+$color_CD919E:#CD919E !default;
+
+$color_CD8C95:#CD8C95 !default;
+$color_CD853F:#CD853F !default;
+$color_CD8500:#CD8500 !default;
+$color_CD8162:#CD8162 !default;
+
+$color_CD7054:#CD7054 !default;
+$color_CD69C9:#CD69C9 !default;
+$color_CD6889:#CD6889 !default;
+$color_CD6839:#CD6839 !default;
+
+$color_CD661D:#CD661D !default;
+$color_CD6600:#CD6600 !default;
+$color_CD6090:#CD6090 !default;
+$color_CD5C5C:#CD5C5C !default;
+
+$color_CD5B45:#CD5B45 !default;
+$color_CD5555:#CD5555 !default;
+$color_CD4F39:#CD4F39 !default;
+$color_CD3700:#CD3700 !default;
+
+$color_CD3333:#CD3333 !default;
+$color_CD3278:#CD3278 !default;
+$color_CD2990:#CD2990 !default;
+$color_CD2626:#CD2626 !default;
+
+$color_CD1076:#CD1076 !default;
+$color_CD00CD:#CD00CD !default;
+$color_CD0000:#CD0000 !default;
+$color_CCCCCC:#CCCCCC !default;
+
+$color_CAFF70:#CAFF70 !default;
+$color_CAE1FF:#CAE1FF !default;
+$color_C9C9C9:#C9C9C9 !default;
+$color_C7C7C7:#C7C7C7 !default;
+
+$color_C71585:#C71585 !default;
+$color_C6E2FF:#C6E2FF !default;
+$color_C67171:#C67171 !default;
+$color_C5C1AA:#C5C1AA !default;
+
+$color_C4C4C4:#C4C4C4 !default;
+$color_C2C2C2:#C2C2C2 !default;
+$color_C1FFC1:#C1FFC1 !default;
+$color_C1CDCD:#C1CDCD !default;
+
+$color_C1CDC1:#C1CDC1 !default;
+$color_C1C1C1:#C1C1C1 !default;
+$color_C0FF3E:#C0FF3E !default;
+$color_BFEFFF:#BFEFFF !default;
+
+$color_BFBFBF:#BFBFBF !default;
+$color_BF3EFF:#BF3EFF !default;
+$color_BEBEBE:#BEBEBE !default;
+$color_BDBDBD:#BDBDBD !default;
+
+$color_BDB76B:#BDB76B !default;
+$color_BCEE68:#BCEE68 !default;
+$color_BCD2EE:#BCD2EE !default;
+$color_BC8F8F:#BC8F8F !default;
+
+$color_BBFFFF:#BBFFFF !default;
+$color_BABABA:#BABABA !default;
+$color_BA55D3:#BA55D3 !default;
+$color_B9D3EE:#B9D3EE !default;
+
+$color_B8B8B8:#B8B8B8 !default;
+$color_B8860B:#B8860B !default;
+$color_B7B7B7:#B7B7B7 !default;
+$color_B5B5B5:#B5B5B5 !default;
+
+$color_B4EEB4:#B4EEB4 !default;
+$color_B4CDCD:#B4CDCD !default;
+$color_B452CD:#B452CD !default;
+$color_B3EE3A:#B3EE3A !default;
+
+$color_B3B3B3:#B3B3B3 !default;
+$color_B2DFEE:#B2DFEE !default;
+$color_B23AEE:#B23AEE !default;
+$color_B22222:#B22222 !default;
+
+$color_B0E2FF:#B0E2FF !default;
+$color_B0E0E6:#B0E0E6 !default;
+$color_B0C4DE:#B0C4DE !default;
+$color_B0B0B0:#B0B0B0 !default;
+
+$color_B03060:#B03060 !default;
+$color_AEEEEE:#AEEEEE !default;
+$color_ADFF2F:#ADFF2F !default;
+$color_ADD8E6:#ADD8E6 !default;
+
+$color_ADADAD:#ADADAD !default;
+$color_ABABAB:#ABABAB !default;
+$color_AB82FF:#AB82FF !default;
+$color_AAAAAA:#AAAAAA !default;
+
+$color_A9A9A9:#A9A9A9 !default;
+$color_A8A8A8:#A8A8A8 !default;
+$color_A6A6A6:#A6A6A6 !default;
+$color_A52A2A:#A52A2A !default;
+
+$color_A4D3EE:#A4D3EE !default;
+$color_A3A3A3:#A3A3A3 !default;
+$color_A2CD5A:#A2CD5A !default;
+$color_A2B5CD:#A2B5CD !default;
+
+$color_A1A1A1:#A1A1A1 !default;
+$color_A0522D:#A0522D !default;
+$color_A020F0:#A020F0 !default;
+$color_9FB6CD:#9FB6CD !default;
+
+$color_9F79EE:#9F79EE !default;
+$color_9E9E9E:#9E9E9E !default;
+$color_9C9C9C:#9C9C9C !default;
+$color_9BCD9B:#9BCD9B !default;
+
+$color_9B30FF:#9B30FF !default;
+$color_9AFF9A:#9AFF9A !default;
+$color_9ACD32:#9ACD32 !default;
+$color_9AC0CD:#9AC0CD !default;
+
+$color_9A32CD:#9A32CD !default;
+$color_999999:#999999 !default;
+$color_9932CC:#9932CC !default;
+$color_98FB98:#98FB98 !default;
+
+$color_98F5FF:#98F5FF !default;
+$color_97FFFF:#97FFFF !default;
+$color_96CDCD:#96CDCD !default;
+$color_969696:#969696 !default;
+
+$color_949494:#949494 !default;
+$color_9400D3:#9400D3 !default;
+$color_9370DB:#9370DB !default;
+$color_919191:#919191 !default;
+
+$color_912CEE:#912CEE !default;
+$color_90EE90:#90EE90 !default;
+$color_8FBC8F:#8FBC8F !default;
+$color_8F8F8F:#8F8F8F !default;
+
+$color_8EE5EE:#8EE5EE !default;
+$color_8E8E8E:#8E8E8E !default;
+$color_8E8E38:#8E8E38 !default;
+$color_8E388E:#8E388E !default;
+
+$color_8DEEEE:#8DEEEE !default;
+$color_8DB6CD:#8DB6CD !default;
+$color_8C8C8C:#8C8C8C !default;
+$color_8B8B83:#8B8B83 !default;
+
+$color_8B8B7A:#8B8B7A !default;
+$color_8B8B00:#8B8B00 !default;
+$color_8B8989:#8B8989 !default;
+$color_8B8970:#8B8970 !default;
+
+$color_8B8878:#8B8878 !default;
+$color_8B8682:#8B8682 !default;
+$color_8B864E:#8B864E !default;
+$color_8B8386:#8B8386 !default;
+
+$color_8B8378:#8B8378 !default;
+$color_8B814C:#8B814C !default;
+$color_8B7E66:#8B7E66 !default;
+$color_8B7D7B:#8B7D7B !default;
+
+$color_8B7D6B:#8B7D6B !default;
+$color_8B7B8B:#8B7B8B !default;
+$color_8B795E:#8B795E !default;
+$color_8B7765:#8B7765 !default;
+
+$color_8B7500:#8B7500 !default;
+$color_8B7355:#8B7355 !default;
+$color_8B6969:#8B6969 !default;
+$color_8B6914:#8B6914 !default;
+
+$color_8B668B:#8B668B !default;
+$color_8B6508:#8B6508 !default;
+$color_8B636C:#8B636C !default;
+$color_8B5F65:#8B5F65 !default;
+
+$color_8B5A2B:#8B5A2B !default;
+$color_8B5A00:#8B5A00 !default;
+$color_8B5742:#8B5742 !default;
+$color_8B4C39:#8B4C39 !default;
+
+$color_8B4789:#8B4789 !default;
+$color_8B475D:#8B475D !default;
+$color_8B4726:#8B4726 !default;
+$color_8B4513:#8B4513 !default;
+
+$color_8B4500:#8B4500 !default;
+$color_8B3E2F:#8B3E2F !default;
+$color_8B3A62:#8B3A62 !default;
+$color_8B3A3A:#8B3A3A !default;
+
+$color_8B3626:#8B3626 !default;
+$color_8B2500:#8B2500 !default;
+$color_8B2323:#8B2323 !default;
+$color_8B2252:#8B2252 !default;
+
+$color_8B1C62:#8B1C62 !default;
+$color_8B1A1A:#8B1A1A !default;
+$color_8B0A50:#8B0A50 !default;
+$color_8B008B:#8B008B !default;
+
+$color_8B0000:#8B0000 !default;
+$color_8A8A8A:#8A8A8A !default;
+$color_8A2BE2:#8A2BE2 !default;
+$color_8968CD:#8968CD !default;
+
+$color_87CEFF:#87CEFF !default;
+$color_87CEFA:#87CEFA !default;
+$color_87CEEB:#87CEEB !default;
+$color_878787:#878787 !default;
+
+$color_858585:#858585 !default;
+$color_848484:#848484 !default;
+$color_8470FF:#8470FF !default;
+$color_838B8B:#838B8B !default;
+
+$color_838B83:#838B83 !default;
+$color_836FFF:#836FFF !default;
+$color_828282:#828282 !default;
+$color_7FFFD4:#7FFFD4 !default;
+
+$color_7FFF00:#7FFF00 !default;
+$color_7F7F7F:#7F7F7F !default;
+$color_7EC0EE:#7EC0EE !default;
+$color_7D9EC0:#7D9EC0 !default;
+
+$color_7D7D7D:#7D7D7D !default;
+$color_7D26CD:#7D26CD !default;
+$color_7CFC00:#7CFC00 !default;
+$color_7CCD7C:#7CCD7C !default;
+
+$color_7B68EE:#7B68EE !default;
+$color_7AC5CD:#7AC5CD !default;
+$color_7A8B8B:#7A8B8B !default;
+$color_7A7A7A:#7A7A7A !default;
+
+$color_7A67EE:#7A67EE !default;
+$color_7A378B:#7A378B !default;
+$color_79CDCD:#79CDCD !default;
+$color_787878:#787878 !default;
+
+$color_778899:#778899 !default;
+$color_76EEC6:#76EEC6 !default;
+$color_76EE00:#76EE00 !default;
+$color_757575:#757575 !default;
+
+$color_737373:#737373 !default;
+$color_71C671:#71C671 !default;
+$color_7171C6:#7171C6 !default;
+$color_708090:#708090 !default;
+
+$color_707070:#707070 !default;
+$color_6E8B3D:#6E8B3D !default;
+$color_6E7B8B:#6E7B8B !default;
+$color_6E6E6E:#6E6E6E !default;
+
+$color_6CA6CD:#6CA6CD !default;
+$color_6C7B8B:#6C7B8B !default;
+$color_6B8E23:#6B8E23 !default;
+$color_6B6B6B:#6B6B6B !default;
+
+$color_6A5ACD:#6A5ACD !default;
+$color_698B69:#698B69 !default;
+$color_698B22:#698B22 !default;
+$color_696969:#696969 !default;
+
+$color_6959CD:#6959CD !default;
+$color_68838B:#68838B !default;
+$color_68228B:#68228B !default;
+$color_66CDAA:#66CDAA !default;
+
+$color_66CD00:#66CD00 !default;
+$color_668B8B:#668B8B !default;
+$color_666666:#666666 !default;
+$color_6495ED:#6495ED !default;
+
+$color_63B8FF:#63B8FF !default;
+$color_636363:#636363 !default;
+$color_616161:#616161 !default;
+$color_607B8B:#607B8B !default;
+
+$color_5F9EA0:#5F9EA0 !default;
+$color_5E5E5E:#5E5E5E !default;
+$color_5D478B:#5D478B !default;
+$color_5CACEE:#5CACEE !default;
+
+$color_5C5C5C:#5C5C5C !default;
+$color_5B5B5B:#5B5B5B !default;
+$color_595959:#595959 !default;
+$color_575757:#575757 !default;
+
+$color_556B2F:#556B2F !default;
+$color_555555:#555555 !default;
+$color_551A8B:#551A8B !default;
+$color_54FF9F:#54FF9F !default;
+
+$color_548B54:#548B54 !default;
+$color_545454:#545454 !default;
+$color_53868B:#53868B !default;
+$color_528B8B:#528B8B !default;
+
+$color_525252:#525252 !default;
+$color_515151:#515151 !default;
+$color_4F94CD:#4F94CD !default;
+$color_4F4F4F:#4F4F4F !default;
+
+$color_4EEE94:#4EEE94 !default;
+$color_4D4D4D:#4D4D4D !default;
+$color_4B0082:#4B0082 !default;
+$color_4A708B:#4A708B !default;
+
+$color_4A4A4A:#4A4A4A !default;
+$color_48D1CC:#48D1CC !default;
+$color_4876FF:#4876FF !default;
+$color_483D8B:#483D8B !default;
+
+$color_474747:#474747 !default;
+$color_473C8B:#473C8B !default;
+$color_4682B4:#4682B4 !default;
+$color_458B74:#458B74 !default;
+
+$color_458B00:#458B00 !default;
+$color_454545:#454545 !default;
+$color_43CD80:#43CD80 !default;
+$color_436EEE:#436EEE !default;
+
+$color_424242:#424242 !default;
+$color_4169E1:#4169E1 !default;
+$color_40E0D0:#40E0D0 !default;
+$color_404040:#404040 !default;
+
+$color_3D3D3D:#3D3D3D !default;
+$color_3CB371:#3CB371 !default;
+$color_3B3B3B:#3B3B3B !default;
+$color_3A5FCD:#3A5FCD !default;
+
+$color_388E8E:#388E8E !default;
+$color_383838:#383838 !default;
+$color_36648B:#36648B !default;
+$color_363636:#363636 !default;
+
+$color_333333:#333333 !default;
+$color_32CD32:#32CD32 !default;
+$color_303030:#303030 !default;
+$color_2F4F4F:#2F4F4F !default;
+
+$color_2E8B57:#2E8B57 !default;
+$color_2E2E2E:#2E2E2E !default;
+$color_2B2B2B:#2B2B2B !default;
+$color_292929:#292929 !default;
+
+$color_282828:#282828 !default;
+$color_27408B:#27408B !default;
+$color_262626:#262626 !default;
+$color_242424:#242424 !default;
+
+$color_228B22:#228B22 !default;
+$color_218868:#218868 !default;
+$color_212121:#212121 !default;
+$color_20B2AA:#20B2AA !default;
+
+$color_1F1F1F:#1F1F1F !default;
+$color_1E90FF:#1E90FF !default;
+$color_1E1E1E:#1E1E1E !default;
+$color_1C86EE:#1C86EE !default;
+
+$color_1C1C1C:#1C1C1C !default;
+$color_1A1A1A:#1A1A1A !default;
+$color_191970:#191970 !default;
+$color_1874CD:#1874CD !default;
+
+$color_171717:#171717 !default;
+$color_141414:#141414 !default;
+$color_121212:#121212 !default;
+$color_104E8B:#104E8B !default;
+
+$color_0F0F0F:#0F0F0F !default;
+$color_0D0D0D:#0D0D0D !default;
+$color_0A0A0A:#0A0A0A !default;
+$color_080808:#080808 !default;
+
+$color_050505:#050505 !default;
+$color_030303:#030303 !default;
+$color_00FFFF:#00FFFF !default;
+$color_00FF7F:#00FF7F !default;
+
+$color_00FF00:#00FF00 !default;
+$color_00FA9A:#00FA9A !default;
+$color_00F5FF:#00F5FF !default;
+$color_00EEEE:#00EEEE !default;
+
+$color_00EE76:#00EE76 !default;
+$color_00EE00:#00EE00 !default;
+$color_00E5EE:#00E5EE !default;
+$color_00CED1:#00CED1 !default;
+
+$color_00CDCD:#00CDCD !default;
+$color_00CD66:#00CD66 !default;
+$color_00CD00:#00CD00 !default;
+$color_00C5CD:#00C5CD !default;
+
+$color_00BFFF:#00BFFF !default;
+$color_00B2EE:#00B2EE !default;
+$color_009ACD:#009ACD !default;
+$color_008B8B:#008B8B !default;
+
+$color_008B45:#008B45 !default;
+$color_008B00:#008B00 !default;
+$color_00868B:#00868B !default;
+$color_00688B:#00688B !default;
+
+$color_006400:#006400 !default;
+$color_0000FF:#0000FF !default;
+$color_0000EE:#0000EE !default;
+$color_0000CD:#0000CD !default;
+
+$color_0000AA:#0000AA !default;
+$color_00008B:#00008B !default;
+$color_000080:#000080 !default;
+$color_000000:#000000 !default;
